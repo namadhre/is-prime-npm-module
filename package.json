@@ -1,11 +1,11 @@
 {
-  "name": "@namadhre/prime-number",
+  "name": "@namadhre/is-prime",
   "version": "1.0.1",
   "description": "Package for is Prime number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "namadhre",
+  "author": "Mahendra Chinthamgari",
   "license": "ISC"
 }
